@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Super todo app",
-  description: "test task for veel",
+  description: "test task for Veel",
 };
 
 export default function RootLayout({
