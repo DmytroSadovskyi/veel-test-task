@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-sm:
+    "360px", --breakpoint-md: "480px", --breakpoint-lg: "768px",
+    --breakpoint-xl: "1280px";
+}
+
+@utility container {
+  margin-inline: auto;
+  padding-inline: 1rem;
+
+  @variant md {
+    padding-inline: 20px;
+  }
+
+  @variant lg {
+    padding-inline: 50px;
+  }
+
+  @variant xl {
+    padding-inline: 100px;
+  }
+}
