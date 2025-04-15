@@ -27,8 +27,8 @@ A simple Todo app built with **Next.js**, **React Query**, **Axios**, and **Tail
 1. **Clone the repo**
 
 ```bash
-   git clone https://github.com/DmytroSadovskyi/veel-test-task.git
-   cd veel-test-task
+git clone https://github.com/DmytroSadovskyi/veel-test-task.git
+cd veel-test-task
 ```
 
 2. **Install dependencies**
