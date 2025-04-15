@@ -20,6 +20,7 @@ A simple Todo app built with **Next.js**, **React Query**, **Axios**, and **Tail
 
 - `AddTodoForm`: input field and button to add todos
 - `TodoList`: displays todos and allows deletion
+- `QueryProvider`: wraps the app to provide React Query functionality
 - `todosQuery`: React Query logic for fetching todos
 
 ## 🚀 Getting Started
